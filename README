@@ -1,0 +1,1 @@
+This repository contains the scripts and (some) data used to perform analysis and generate figures in the manuscript "Evidence for power law scaling in species aggregation." Re-running the analysis requires both a working Python 3 environment, containing the usual scientific Python packages, and an R installation.
